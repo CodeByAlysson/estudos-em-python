@@ -1,4 +1,4 @@
-#Neste exercício vou te explicar como usar if e else em Python.
+# Neste exercício vou te explicar como usar if e else em Python.
 
 idade = int(input("Digite sua idade: "))
 
