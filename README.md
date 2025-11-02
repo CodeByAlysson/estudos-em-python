@@ -1,4 +1,4 @@
-# estudos-em-python
+# Meus estudos em Python 🐍
 
 Nesta seção você irá aprender e acompanhar todas as minhas jornadas em python!!
 
