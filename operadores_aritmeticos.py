@@ -1,5 +1,5 @@
 # podemos utilizar operadores aritméticos para realizar 
-# cálculos matemáticos básicos en Python.
+# cálculos matemáticos básicos em Python.
 
 x = 10
 y = 3
