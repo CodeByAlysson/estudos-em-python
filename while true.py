@@ -8,3 +8,6 @@ while True:
         break
     else:
         print("Nome incorreto. Tente novamente ou caia fora ! ❌.")
+
+# o while True cria um loop infinito 
+# que continuará solicitando o nome até que o usuário digite "CodeByAlysson".
