@@ -67,6 +67,6 @@ try:
     print(f"Número de páginas (com desconto se aplicável): {paginas_descontadas:.2f}")
     print(f"Valor adicional: R${valor_adicional:.2f}")
     print(f"Total a pagar: R${total:.2f}\n")
-    print('***A copiadora Alysson Ribeiro agradece por sua compra. Volte sempre!***')
+    print('***A copiadora CodeByAlysson agradece por sua compra. Volte sempre!***')
 except Exception as e:
     print("Ocorreu um erro inesperado:", e)
